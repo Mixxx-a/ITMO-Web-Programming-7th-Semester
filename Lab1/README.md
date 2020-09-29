@@ -1,0 +1,1 @@
+Static landing page of weather forecast
